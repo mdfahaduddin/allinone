@@ -1,0 +1,36 @@
+[
+    {
+        "name": "SanDisk Ultra 128GB",
+        "price":"100",
+        "description":"asdfghjjdjhjdhhsjhgfjgjfsdf",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "products/tzfsnrli3szrdnb4jgge",
+            "url":"https://cloudinary-res.cloudinary.com/images/c_scale,w_800,dpr_1.0/f_auto,q_auto/v1607705842/cloudinary_web_media_management_robust_transformations_done_easily-crop/cloudinary_web_media_management_robust_transformations_done_easily-crop.png"
+        }],
+        "category": "Electronics",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+
+        
+    },
+    {
+        "name": "HP laptop",
+        "price":"40000",
+        "description":"asdfghjjdjhjdhhsjhgfjgjfsddf",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "products/tzfsnrli3szrdnb4jgge",
+            "url":"https://cloudinary-res.cloudinary.com/images/c_scale,w_800,dpr_1.0/f_auto,q_auto/v1607705842/cloudinary_web_media_management_robust_transformations_done_easily-crop/cloudinary_web_media_management_robust_transformations_done_easily-crop.png"
+        }],
+        "category": "Laptops",
+        "seller":"HP",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+
+        
+    }
+]
