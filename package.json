@@ -1,6 +1,6 @@
 {
   "name": "all-in-one",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "full ecommerce site using mern",
   "main": "server.js",
   "scripts": {
